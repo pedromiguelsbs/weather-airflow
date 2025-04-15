@@ -2,7 +2,7 @@
   <img alt="Ícone Python" title="Ícone Python" src="assets/python-logo.png" width="120px" /> 
 </h1> 
 
-<h2 align="center">Pipeline Automatizado: Extraindo dados do Clima com Python e Airflow</h2> 
+<h2 align="center">Pipeline ETL: Automatizando a extração de dados do climáticos com Python e Airflow</h2> 
 
 <p align="center">
  <a href="https://www.linkedin.com/in/pedromiguelsbs/">
